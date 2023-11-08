@@ -29,7 +29,7 @@
     <div class="main-default">
         <img src="//cdn-icons-png.flaticon.com/128/4997/4997543.png" alt="Logo DevJobs" width="78px">
             <h3>Bem-vindo ao projeto DevJobs</h3>
-    <p class="text-light">Se você já modificou o arquivo CONFIG.PHP com as informações do seu banco de dados local, basta clicar no botão abaixo para iniciar a instalação automática da instância. Se tiver dúvida, leia a documentação <a href="#">clicando aqui</a>.</p>
+    <p class="text-light">Se você já modificou o arquivo 'config.php' inserindo as informações do seu banco de dados local, basta clicar no botão abaixo para iniciar a instalação automática da instância. Se tiver dúvida, leia a documentação <a href="https://github.com/brjmichael/devjobs#readme" target="_blank">clicando aqui</a>.</p>
     <button id="initialize" class="btn-action mt-3">Iniciar</button>
 </div>
     </div>
